@@ -1,5 +1,39 @@
-## Hi there 👋
+# Hi there 👋
+My name is <b>Michael</b>, and I am a senior CS student specialized in AI/ML  
+I embracing continous improvement, comitted to deeply understand what i learn!
 
+### Mindset
+Focusing on understanding how things work under the hood — building a strong foundation in ML theory, mathematics, and algorithms rather than relying blindly on frameworks.
+
+- 🔭 I’m currently working on my Graduation Project about <b>Video Summarization</b>.
+- 🌱 I’m currently learning Deep Learning from DL specialization by DeepLearning.ai on Coursera.
+- 👯 I’m looking to collaborate on Data Science projects.
+- 🔍 Currently exploring:
+  - Deployment on Cloud
+  - Statistical ML
+
+### 🛠 Tools
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/scikitlearn" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" height="40" alt="huggingface logo" />
+</div>
 <!--
 **michael-nabil/michael-nabil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
