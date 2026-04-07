@@ -6,7 +6,7 @@ I embracing continous improvement, comitted to deeply understand what i learn!
 Focusing on understanding how things work under the hood — building a strong foundation in ML theory, mathematics, and algorithms rather than relying blindly on frameworks.
 
 - 🔭 I’m currently working on my Graduation Project about <b>Video Summarization</b>.
-- 🌱 I’m currently learning Deep Learning from DL specialization by DeepLearning.ai on Coursera.
+- 🌱 I’m currently learning various Data Science topics on DataCamp and Deep Learning specialization by DeepLearning.ai on Coursera.
 - 👯 I’m looking to collaborate on Data Science projects.
 - 🔍 Currently exploring:
   - Deployment on Cloud
