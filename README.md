@@ -1,6 +1,6 @@
 # Hi there 👋
 My name is <b>Michael</b>, and I am a senior CS student specialized in AI/ML  
-I embrace continous improvement, comitted to deeply understand what i learn!
+I embrace continuous improvement, and comitted to deeply understand what i learn!
 
 ### Mindset
 Focusing on understanding how things work under the hood — building a strong foundation in ML theory, mathematics, and algorithms rather than relying blindly on frameworks.
@@ -12,7 +12,7 @@ Focusing on understanding how things work under the hood — building a strong f
   - Deployment on Cloud
   - Statistical ML
 
-### 🛠 Tools
+### Tools
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
   <img width="12" />
