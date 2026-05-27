@@ -34,6 +34,10 @@ Focusing on understanding how things work under the hood — building a strong f
   <img width="12" />
   <img src="https://huggingface.co/front/assets/huggingface_logo.svg" height="40" alt="huggingface logo" />
 </div>
+
+---
+
+![](https://komarev.com/ghpvc/?username=michael-nabil&base=1&color=grey)
 <!--
 **michael-nabil/michael-nabil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
