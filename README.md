@@ -1,9 +1,9 @@
-# Hi there 👋
-My name is <b>Michael</b>, and I am a senior CS student specialized in AI/ML  
+<div align="center"> <h1>Hi there 👋</h1> </div>
+My name is <b>Michael</b>, I am a senior CS student specialized in AI/ML  
 I embrace continuous improvement, and comitted to deeply understand what i learn!
 
-### Mindset
-Focusing on understanding how things work under the hood — building a strong foundation in ML theory, mathematics, and algorithms rather than relying blindly on frameworks.
+## Mindset
+>Focusing on understanding how things work under the hood — building a strong foundation in ML theory, mathematics, and algorithms rather than relying only on frameworks.
 
 - 🔭 I’m currently working on my Graduation Project about <b>Video Summarization</b>.
 - 🌱 I’m currently learning various Data Science topics on DataCamp and Deep Learning specialization by DeepLearning.ai on Coursera.
@@ -11,8 +11,9 @@ Focusing on understanding how things work under the hood — building a strong f
 - 🔍 Currently exploring:
   - Deployment on Cloud
   - Statistical ML
+  - Agnetic AI
 
-### Tools
+## Tools
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
   <img width="12" />
