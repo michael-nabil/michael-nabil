@@ -1,9 +1,10 @@
 <div align="center"> <h1>Hi there 👋</h1> </div>
-My name is <b>Michael</b>, I am a senior CS student specialized in AI/ML  
+My name is <b>Michael</b>, I am a senior CS student specialized in AI/ML <br>
 I embrace continuous improvement, and comitted to deeply understand what i learn!
 
 ## Mindset
->Focusing on understanding how things work under the hood — building a strong foundation in ML theory, mathematics, and algorithms rather than relying only on frameworks.
+#### Focusing on understanding how things work under the hood — building a strong foundation in ML theory, mathematics, and algorithms rather than relying only on frameworks.
+#### Building AI systems, that are efficient and reliable, Ensuring `generalization` and robustness.
 
 - 🔭 I’m currently working on my Graduation Project about <b>Video Summarization</b>.
 - 🌱 I’m currently learning various Data Science topics on DataCamp and Deep Learning specialization by DeepLearning.ai on Coursera.
