@@ -12,7 +12,7 @@ I embrace continuous improvement, and comitted to deeply understand what i learn
 - 🔍 Currently exploring:
   - Deployment on Cloud
   - Statistical ML
-  - Agnetic AI
+  - Agentic AI
 
 ## Tools
 <div align="left">
